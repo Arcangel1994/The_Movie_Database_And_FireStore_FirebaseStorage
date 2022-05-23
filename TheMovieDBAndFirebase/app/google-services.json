@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "644847316585",
+    "project_id": "themoviedbandplaces",
+    "storage_bucket": "themoviedbandplaces.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644847316585:android:0da99fa0469d20ea51bcf8",
+        "android_client_info": {
+          "package_name": "com.example.themoviedbandfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644847316585-i8hjs3ap76mci3d0n656ifuhmbcmvahc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.themoviedbandfirebase",
+            "certificate_hash": "dbc9bb05cf30390ad10df4d18cac6c209c90da43"
+          }
+        },
+        {
+          "client_id": "644847316585-sldskrf36s7ba2p41pqctqu32jsohl78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Ze_Y0vIoUxFuDnkjgiVEhUC4NCbMXVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644847316585-sldskrf36s7ba2p41pqctqu32jsohl78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

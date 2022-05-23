@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TheMovieDBAndFirebase</string>
+    <string name="title_movies">Popular</string>
+    <string name="title_details">Details</string>
+    <string name="title_position">Places</string>
+    <string name="details_position">Details places</string>
+    <string name="add_images">Add Images</string>
+    <string name="details_here">Were Here</string>
+    <string name="loading">Loading...</string>
+    <string name="title_activity_details_position">DetailsPositionActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_images">Images</string>
+    <string name="name">Name</string>
+    <string name="selectImage">Select Images</string>
+    <string name="upload_images">Upload Images</string>
+    <string name="describe">Describe the photo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
